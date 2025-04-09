@@ -25,7 +25,7 @@ Our results show that in settings with high GP supply, care discontinuity result
 
 [Financial incentives and antibiotic prescribing patterns: Evidence from
 dispensing physicians in a public healthcare system](https://www.sciencedirect.com/science/article/pii/S027795362300148X) \
-**Stacherl, B.**, Renner, A.-T. & Weber, D.
+**Stacherl, B.**, Renner, A.-T. & Weber, D. \
 *Social Science and Medicine (2023)*, 321: 115791.
 
 
