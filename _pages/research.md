@@ -7,11 +7,9 @@ author_profile: true
 
 ## Working Papers
 
-**Where Does it Hurt? Primary Care Practice Closures, Individual Health, and Hospital Utilization**
+**Where Does it Hurt? Primary Care Practice Closures, Individual Health, and Hospital Utilization** (available on request)
 
 with Anna-Theresa Renner
-
-(available on request)
 
 <details>
 <summary>Abstract</summary>
@@ -29,7 +27,8 @@ abc
 
 ## Policy Reports
 
-abc
+Beckmannshagen, M., Graeber D. & **Stacherl, B.** (2023) [Mental Health: Difference between East and West Germany is
+Getting Smaller (Psychische Gesundheit hat sich in Ost und West angenähert)](https://www.diw.de/documents/publikationen/73/diw_01.c.881929.de/23-40.pdf), *DIW Weekly Report*, 40/2023: 546-552.
 
 ## Work in Progress
 
