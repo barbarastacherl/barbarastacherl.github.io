@@ -7,9 +7,8 @@ author_profile: true
 
 ## Working Papers
 
-**Where Does it Hurt? Primary Care Practice Closures, Individual Health, and Hospital Utilization** (available on request)
-
-with Anna-Theresa Renner
+**Where Does it Hurt? Primary Care Practice Closures, Individual Health, and Hospital Utilization** \
+*Working Paper available on request*, with Anna-Theresa Renner
 
 <details>
 <summary>Abstract</summary>
@@ -32,14 +31,12 @@ Entringer, T.M., Kumrow, L., & **Stacherl, B.** (2025) [Loneliness in Germany: L
 Beckmannshagen, M., Graeber D. & **Stacherl, B.** (2023) [Mental Health: Difference between East and West Germany is
 Getting Smaller (Psychische Gesundheit hat sich in Ost und West angenähert)](https://www.diw.de/documents/publikationen/73/diw_01.c.881929.de/23-40.pdf), *DIW Weekly Report*, 40/2023: 546-552.
 
-## Work in Progress
+## Select Work in Progress
 
-**Spillover Effects of Organized Cancer Screening Programs**
+**Spillover Effects of Organized Cancer Screening Programs** \
+<u> Barbara Stacherl </u>, Erin Strumpf
 
-with Erin Strumpf
-
-**Moving in the Right Direction? Internal Migration, Person-Environment Fit, and Well-Being**
-
-with Theresa M. Entringer
+**Moving in the Right Direction? Internal Migration, Person-Environment Fit, and Well-Being** \
+Theresa M. Entringer, <u> Barbara Stacherl </u>, Jakob Erhard, Anne Reitz
 
 
