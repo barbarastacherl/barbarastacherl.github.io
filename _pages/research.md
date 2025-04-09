@@ -71,8 +71,8 @@ Mattis Beckmannshagen, Daniel Graeber & **Barbara Stacherl** (authors in alphabe
 
 ## Select Work in Progress
 
-**Spillover Effects of Organized Cancer Screening Programs** \
+<u>Spillover Effects of Organized Cancer Screening Programs</u> \
 with Erin Strumpf
 
-**Moving in the Right Direction? Internal Migration, Person-Environment Fit, and Well-Being** \
+<u>Moving in the Right Direction? Internal Migration, Person-Environment Fit, and Well-Being</u> \
 with Theresa M. Entringer, Jakob Erhard
