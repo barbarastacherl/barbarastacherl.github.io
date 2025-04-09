@@ -25,34 +25,48 @@ Our results show that in settings with high GP supply, care discontinuity result
 
 [Financial incentives and antibiotic prescribing patterns: Evidence from
 dispensing physicians in a public healthcare system](https://www.sciencedirect.com/science/article/pii/S027795362300148X) \
-**Stacherl, B.**, Renner, A.-T. & Weber, D. \
+**Barbara Stacherl**, Anna-Theresa Renner & Daniela Weber \
 *Social Science and Medicine (2023)*, 321: 115791.
 
 
 ## Journal Publications: Public Health
 
-**Stacherl, B.** & Entringer, T.M. (2024) [From feeling depressed to getting diagnosed: Determinants of a diagnosis of
-depression after experiencing symptoms](https://journals.sagepub.com/doi/full/10.1177/00207640241303038) *International Journal of Social Psychiatry*, (OnlineFirst).
+[From feeling depressed to getting diagnosed: Determinants of a diagnosis of
+depression after experiencing symptoms](https://journals.sagepub.com/doi/full/10.1177/00207640241303038) \
+*International Journal of Social Psychiatry (2024)* \
+**Barbara Stacherl** & Theresa M. Entringer
 
-Kraus, M., **Stacherl, B.**, Czypionka, T. & Mayer, S. (2024) [Equal waiting times for all? Empirical evidence for elective
-surgeries in the Austrian public healthcare system](https://www.sciencedirect.com/science/article/pii/S0033350624003512) *Public Health*, 236: 216-223.
+[Equal waiting times for all? Empirical evidence for elective
+surgeries in the Austrian public healthcare system](https://www.sciencedirect.com/science/article/pii/S0033350624003512) \
+*Public Health (2024)* \
+Markus Kraus, **Barbara Stacherl**, Thomas Czypionka & Susanne Mayer
 
-Entringer, T.M. & **Stacherl, B.** (2024) [Loneliness in Germany—prevalence, development over time, and regional differences (Einsamkeit in Deutschland – Prävalenz, Entwicklung über die Zeit und regionale
-Unterschiede)](https://link.springer.com/article/10.1007/s00103-024-03937-y) *Bundesgesundheitsblatt*, 67: 1103–1112.
+[Loneliness in Germany—prevalence, development over time, and regional differences (Einsamkeit in Deutschland – Prävalenz, Entwicklung über die Zeit und regionale
+Unterschiede)](https://link.springer.com/article/10.1007/s00103-024-03937-y) \
+*Bundesgesundheitsblatt* \
+Theresa M. Entringer & **Barbara Stacherl**
 
-**Stacherl, B.** & Sauzet, O. (2024) [Chronic disease onset and wellbeing development: Longitudinal analysis and the role of
-healthcare access](https://academic.oup.com/eurpub/article/34/1/29/7295825) *European Journal of Public Health*, 34(1): 29–34.
+[Chronic disease onset and wellbeing development: Longitudinal analysis and the role of
+healthcare access](https://academic.oup.com/eurpub/article/34/1/29/7295825) \
+*European Journal of Public Health (2024)* \
+**Barbara Stacherl** & Odile Sauzet
 
-**Stacherl, B.** & Sauzet, O. (2023) [Gravity models for potential spatial healthcare access measurement: A systematic
-methodological review](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/s12942-023-00358-z) *International Journal of Health Geographics*, 22(1): 34.
+[Gravity models for potential spatial healthcare access measurement: A systematic
+methodological review](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/s12942-023-00358-z) \
+*International Journal of Health Geographics (2023)* \
+**Barbara Stacherl** & Odile Sauzet
 
 
 ## Policy Reports
 
-Entringer, T.M., Kumrow, L., & **Stacherl, B.** (2025) [Loneliness in Germany: Low-income earners at highest risk of loneliness](https://www.diw.de/documents/publikationen/73/diw_01.c.935131.de/dwr-25-05-1.pdf), *DIW Weekly Report*, 5/2025: 33-40.
+[Loneliness in Germany: Low-income earners at highest risk of loneliness](https://www.diw.de/documents/publikationen/73/diw_01.c.935131.de/dwr-25-05-1.pdf) \
+*DIW Weekly Report (5/2025)* \
+Theresa M. Entringer, Linda Kumrow, & **Barbara Stacherl** (authors in alphabetical order)
 
-Beckmannshagen, M., Graeber D. & **Stacherl, B.** (2023) [Mental health: Difference between East and West Germany is
-getting smaller (Psychische Gesundheit hat sich in Ost und West angenähert)](https://www.diw.de/documents/publikationen/73/diw_01.c.881929.de/23-40.pdf), *DIW Weekly Report*, 40/2023: 546-552.
+[Mental health: Difference between East and West Germany is
+getting smaller (Psychische Gesundheit hat sich in Ost und West angenähert)](https://www.diw.de/documents/publikationen/73/diw_01.c.881929.de/23-40.pdf) \
+*DIW Weekly Report*
+Mattis Beckmannshagen, Daniel Graeber & **Barbara Stacherl** (authors in alphabetical order)
 
 
 ## Select Work in Progress
