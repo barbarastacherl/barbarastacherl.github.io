@@ -8,7 +8,8 @@ author_profile: true
 ## Working Papers
 
 **Where Does it Hurt? Primary Care Practice Closures, Individual Health, and Hospital Utilization** \
-*Working Paper available on request*, with Anna-Theresa Renner
+with Anna-Theresa Renner \
+(Working Paper available on request)
 
 <details>
 <summary>Abstract</summary>
@@ -20,26 +21,39 @@ Our results show that in settings with high GP supply, care discontinuity result
 </details>
 
 
-## Journal Articles
+## Journal Publications: Health Economics
 
-abc
+**Stacherl, B.**, Renner, A.-T. & Weber, D. (2023) [Financial incentives and antibiotic prescribing patterns: Evidence from
+dispensing physicians in a public healthcare system](https://www.sciencedirect.com/science/article/pii/S027795362300148X) *Social Science and Medicine*, 321: 115791.
+
+## Journal Publications: Public Health
+
+**Stacherl, B.** & Entringer, T.M. (2024) [From feeling depressed to getting diagnosed: Determinants of a diagnosis of
+depression after experiencing symptoms](https://journals.sagepub.com/doi/full/10.1177/00207640241303038) *International Journal of Social Psychiatry*, (OnlineFirst).
+
+Kraus, M., **Stacherl, B.**, Czypionka, T. & Mayer, S. (2024) [Equal waiting times for all? Empirical evidence for elective
+surgeries in the Austrian public healthcare system](https://www.sciencedirect.com/science/article/pii/S0033350624003512) *Public Health*, 236: 216-223.
+
+Entringer, T.M. & **Stacherl, B.** (2024) [Loneliness in Germany—prevalence, development over time, and regional differences (Einsamkeit in Deutschland – Prävalenz, Entwicklung über die Zeit und regionale
+Unterschiede)](https://link.springer.com/article/10.1007/s00103-024-03937-y) *Bundesgesundheitsblatt*, 67: 1103–1112.
+
+**Stacherl, B.** & Sauzet, O. (2024) [Chronic disease onset and wellbeing development: Longitudinal analysis and the role of
+healthcare access](https://academic.oup.com/eurpub/article/34/1/29/7295825) *European Journal of Public Health*, 34(1): 29–34.
+
+**Stacherl, B.** & Sauzet, O. (2023) [Gravity models for potential spatial healthcare access measurement: A systematic
+methodological review](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/s12942-023-00358-z) *International Journal of Health Geographics*, 22(1): 34.
 
 ## Policy Reports
 
-### [Loneliness in Germany: Low-Income Earners at Highest Risk of Loneliness](https://www.diw.de/documents/publikationen/73/diw_01.c.935131.de/dwr-25-05-1.pdf)
-*DIW Weekly Report (5/2025)*, Entringer, T.M., Kumrow, L., & <u>Stacherl, B.</u> 
+Entringer, T.M., Kumrow, L., & **Stacherl, B.** (2025) [Loneliness in Germany: Low-income earners at highest risk of loneliness](https://www.diw.de/documents/publikationen/73/diw_01.c.935131.de/dwr-25-05-1.pdf), *DIW Weekly Report*, 5/2025: 33-40.
 
-Entringer, T.M., Kumrow, L., & **Stacherl, B.** (2025) [Loneliness in Germany: Low-Income Earners at Highest Risk of Loneliness](https://www.diw.de/documents/publikationen/73/diw_01.c.935131.de/dwr-25-05-1.pdf), *DIW Weekly Report*, 5/2025: 33-40.
-
-Beckmannshagen, M., Graeber D. & **Stacherl, B.** (2023) [Mental Health: Difference between East and West Germany is
-Getting Smaller (Psychische Gesundheit hat sich in Ost und West angenähert)](https://www.diw.de/documents/publikationen/73/diw_01.c.881929.de/23-40.pdf), *DIW Weekly Report*, 40/2023: 546-552.
+Beckmannshagen, M., Graeber D. & **Stacherl, B.** (2023) [Mental health: Difference between East and West Germany is
+getting smaller (Psychische Gesundheit hat sich in Ost und West angenähert)](https://www.diw.de/documents/publikationen/73/diw_01.c.881929.de/23-40.pdf), *DIW Weekly Report*, 40/2023: 546-552.
 
 ## Select Work in Progress
 
 **Spillover Effects of Organized Cancer Screening Programs** \
-<u> Barbara Stacherl</u>, Erin Strumpf
+with Erin Strumpf
 
 **Moving in the Right Direction? Internal Migration, Person-Environment Fit, and Well-Being** \
-Theresa M. Entringer, <u> Barbara Stacherl</u>, Jakob Erhard, Anne Reitz
-
-
+with Theresa M. Entringer, Jakob Erhard
