@@ -22,7 +22,7 @@ repository               : "barbarastacherl/barbarastacherl.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bstacherl-image.png"
+  avatar           : "bstacherl-image.jpg"
   name             : "Barbara Stacherl"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
