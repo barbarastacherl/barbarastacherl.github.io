@@ -26,15 +26,25 @@ Our results show that in settings with high GP supply, care discontinuity result
 [Financial incentives and antibiotic prescribing patterns: Evidence from
 dispensing physicians in a public healthcare system](https://www.sciencedirect.com/science/article/pii/S027795362300148X) \
 **Barbara Stacherl**, Anna-Theresa Renner & Daniela Weber \
-*Social Science and Medicine (2023)*, 321: 115791.
+*Social Science and Medicine (2023)*, 321: 115791. \
+<details>
+<summary>Abstract</summary>
+<br>
 
+</details>
 
 ## Journal Publications: Public Health
 
 [From feeling depressed to getting diagnosed: Determinants of a diagnosis of
 depression after experiencing symptoms](https://journals.sagepub.com/doi/full/10.1177/00207640241303038) \
 *International Journal of Social Psychiatry (2024)* \
-**Barbara Stacherl** & Theresa M. Entringer
+**Barbara Stacherl** & Theresa M. Entringer \
+<details>
+<summary>Abstract</summary>
+<br>
+
+</details>
+
 
 [Equal waiting times for all? Empirical evidence for elective
 surgeries in the Austrian public healthcare system](https://www.sciencedirect.com/science/article/pii/S0033350624003512) \
