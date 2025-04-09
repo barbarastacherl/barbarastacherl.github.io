@@ -50,21 +50,44 @@ Receiving a formal diagnosis for a depressive disorder is a prerequisite for get
 surgeries in the Austrian public healthcare system](https://www.sciencedirect.com/science/article/pii/S0033350624003512) \
 *Public Health (2024)* \
 Markus Kraus, **Barbara Stacherl**, Thomas Czypionka & Susanne Mayer
+<details>
+<summary>Abstract</summary>
+<br>
+This study analyses waiting times for elective surgeries and potential determinants, including supplementary private health insurance, visits in the operating physician's private practice and informal payments for faster treatment. The survey was conducted in eleven Austrian rehabilitation centres in 2019. Data was analysed based on bivariate tests (n = 400) and a multivariate negative-binomial regression model (n = 310) with institution- and patient-related characteristics as independent variables. Median waiting times were 8.9 weeks (IQR: 4.5–18.0) for hip replacement and 8.4 weeks (IQR: 5.0–20.0) for knee replacement surgery. 10.9% of the patients reported having received an offer to shorten their waiting time through a visit in the operating physician's private practice before the surgery or through an informal payment directly to the operating physician. Surgery in private for-profit hospitals, supplementary private health insurance and severe pain were associated with shorter waiting times. While waiting times for elective surgeries in Austria are below international levels, shorter waits for patients with private health insurance and offers to reduce waiting times through informal payments point to equitable access concerns in a public healthcare system.
+</details>
+
 
 [Loneliness in Germany—prevalence, development over time, and regional differences (Einsamkeit in Deutschland – Prävalenz, Entwicklung über die Zeit und regionale
 Unterschiede)](https://link.springer.com/article/10.1007/s00103-024-03937-y) \
 *Bundesgesundheitsblatt* \
 Theresa M. Entringer & **Barbara Stacherl**
+<details>
+<summary>Abstract</summary>
+<br>
+Loneliness is widespread and has negative health consequences. The present study seeks to answer the following questions: (1) how many people in Germany are highly lonely, (2) how has loneliness changed in Germany over time—in particular with regard to the COVID-19 pandemic, and (3) how is loneliness distributed regionally in Germany today? The present study uses data from the 2013, 2017, and 2021 waves of the Socio-Economic Panel, a population representative panel study from Germany. Based on the University of California, Los Angeles (UCLA) loneliness scale, we estimate prevalences for high loneliness for different risk groups in Germany. Further, using multi-level models, we estimate the changes in loneliness from 2013 to 2021. Finally, we generate regional maps to display the relative regional distribution of loneliness in Germany over the three assessment waves. The results show that around 2% of all people living in Germany are highly lonely, and this proportion has not changed during the COVID-19 pandemic. However, mean overall loneliness in Germany increased in the last decade, particularly during the pandemic. Additionally, the regional distribution of loneliness also changed. While eastern Germany was particularly affected by loneliness in 2013, western Lower Saxony, Rhineland-Palatine, and Hesse were the most affected regions during the pandemic. Reasons for these changes could be structural changes in the German society over the past 10 years or the COVID-19 pandemic and the different measures implemented to combat the spread of the COVID-19 virus. However, since the latest representative data on loneliness stems from 2021, further data collection is urgently needed to depict the current state of loneliness in Germany.
+</details>
+
 
 [Chronic disease onset and wellbeing development: Longitudinal analysis and the role of
 healthcare access](https://academic.oup.com/eurpub/article/34/1/29/7295825) \
 *European Journal of Public Health (2024)* \
 **Barbara Stacherl** & Odile Sauzet
+<details>
+<summary>Abstract</summary>
+<br>
+Experiencing the onset of a chronic disease is a serious health event impacting living conditions and wellbeing. Investigating wellbeing development and its predictors is crucial to understand how individuals adapt to chronic illnesses. This study (i) analyzed the impact of a chronic disease on wellbeing development, and (ii) explored spatial healthcare access as potential moderating factor. Data were obtained from the German Socio-economic Panel, a nationally representative household survey. A prospective sample of 3847 individuals was identified for whom the onset of cancer, cardiopathy, diabetes or stroke was observed between 2008 and 2020. Mixed models using an interrupted time series approach were performed to identify immediate level changes and longitudinal trend changes in wellbeing (operationalized with health and life satisfaction) after disease onset. Further, spatial access to healthcare (operationalized by two-stage floating catchment area measures) as potential moderating factor was examined using interaction effects. Chronic disease onset had an immediate negative level impact on health and life satisfaction. For health satisfaction, a negative pre-onset wellbeing trend was offset (but not reversed). A small positive trend was observed for life satisfaction after disease onset. Spatial access to healthcare was not associated with the magnitude of wellbeing reduction at onset. Health and life satisfaction levels drop with the onset of a chronic disease with no recovery trend for health and little recovery for life satisfaction, implying persistently lower wellbeing levels after a chronic illness onset. Spatial access to healthcare does not affect the wellbeing change after disease onset.
+</details>
+
 
 [Gravity models for potential spatial healthcare access measurement: A systematic
 methodological review](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/s12942-023-00358-z) \
 *International Journal of Health Geographics (2023)* \
 **Barbara Stacherl** & Odile Sauzet
+<details>
+<summary>Abstract</summary>
+<br>
+Quantifying spatial access to care—the interplay of accessibility and availability—is vital for healthcare planning and understanding implications of services (mal-)distribution. A plethora of methods aims to measure potential spatial access to healthcare services. The current study conducts a systematic review to identify and assess gravity model-type methods for spatial healthcare access measurement and to summarize the use of these measures in empirical research. A two-step approach was used to identify (1) methodological studies that presented a novel gravity model for measuring spatial access to healthcare and (2) empirical studies that applied one of these methods in a healthcare context. The review was conducted according to the PRISMA guidelines. EMBASE, CINAHL, Web of Science, and Scopus were searched in the first step. Forward citation search was used in the second step. We identified 43 studies presenting a methodological development and 346 empirical application cases of those methods in 309 studies. Two major conceptual developments emerged: The Two-Step Floating Catchment Area (2SFCA) method and the Kernel Density (KD) method. Virtually all other methodological developments evolved from the 2SFCA method, forming the 2SFCA method family. Novel methodologies within the 2SFCA family introduced developments regarding distance decay within the catchment area, variable catchment area sizes, outcome unit, provider competition, local and global distance decay, subgroup-specific access, multiple transportation modes, and time-dependent access. Methodological developments aimed to either approximate reality, fit a specific context, or correct methodology. Empirical studies almost exclusively applied methods from the 2SFCA family while other gravity model types were applied rarely. Distance decay within catchment areas was frequently implemented in application studies, however, the initial 2SFCA method remains common in empirical research. Most empirical studies used the spatial access measure for descriptive purposes. Increasingly, gravity model measures also served as potential explanatory factor for health outcomes. Gravity models for measuring potential spatial healthcare access are almost exclusively dominated by the family of 2SFCA methods—both for methodological developments and applications in empirical research. While methodological developments incorporate increasing methodological complexity, research practice largely applies gravity models with straightforward intuition and moderate data and computational requirements.
+</details>
 
 
 ## Policy Reports
