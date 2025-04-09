@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-**Where Does it Hurt? Primary Care Practice Closures, Individual Health, and Hospital Utilization** \
+<u>Where Does it Hurt? Primary Care Practice Closures, Individual Health, and Hospital Utilization</u> \
 with Anna-Theresa Renner \
 (Working Paper available on request)
 
