@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Download <div class="cv-download-links"><a href="{{ base_path }}/files/cv_stacherl_webpage_042025.pdf" >here</a></div>
+<div class="cv-download-links"><a href="{{ base_path }}/files/cv_stacherl_webpage_042025.pdf" >Download CV</a></div>
