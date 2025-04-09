@@ -27,9 +27,19 @@ abc
 
 ## Policy Reports
 
+Entringer, T.M., Kumrow, L., & **Stacherl, B.** (2025) [Loneliness in Germany: Low-Income Earners at Highest Risk of Loneliness](https://www.diw.de/documents/publikationen/73/diw_01.c.935131.de/dwr-25-05-1.pdf), *DIW Weekly Report*, 5/2025: 33-40.
+
 Beckmannshagen, M., Graeber D. & **Stacherl, B.** (2023) [Mental Health: Difference between East and West Germany is
 Getting Smaller (Psychische Gesundheit hat sich in Ost und West angenähert)](https://www.diw.de/documents/publikationen/73/diw_01.c.881929.de/23-40.pdf), *DIW Weekly Report*, 40/2023: 546-552.
 
 ## Work in Progress
 
-abc
+**Spillover Effects of Organized Cancer Screening Programs**
+
+with Erin Strumpf
+
+**Moving in the Right Direction? Internal Migration, Person-Environment Fit, and Well-Being**
+
+with Theresa M. Entringer
+
+
