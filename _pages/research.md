@@ -26,6 +26,9 @@ abc
 
 ## Policy Reports
 
+### [Loneliness in Germany: Low-Income Earners at Highest Risk of Loneliness](https://www.diw.de/documents/publikationen/73/diw_01.c.935131.de/dwr-25-05-1.pdf)
+*DIW Weekly Report (5/2025)*, Entringer, T.M., Kumrow, L., & <u>Stacherl, B.</u> 
+
 Entringer, T.M., Kumrow, L., & **Stacherl, B.** (2025) [Loneliness in Germany: Low-Income Earners at Highest Risk of Loneliness](https://www.diw.de/documents/publikationen/73/diw_01.c.935131.de/dwr-25-05-1.pdf), *DIW Weekly Report*, 5/2025: 33-40.
 
 Beckmannshagen, M., Graeber D. & **Stacherl, B.** (2023) [Mental Health: Difference between East and West Germany is
@@ -34,9 +37,9 @@ Getting Smaller (Psychische Gesundheit hat sich in Ost und West angenähert)](ht
 ## Select Work in Progress
 
 **Spillover Effects of Organized Cancer Screening Programs** \
-<u> Barbara Stacherl </u>, Erin Strumpf
+<u> Barbara Stacherl</u>, Erin Strumpf
 
 **Moving in the Right Direction? Internal Migration, Person-Environment Fit, and Well-Being** \
-Theresa M. Entringer, <u> Barbara Stacherl </u>, Jakob Erhard, Anne Reitz
+Theresa M. Entringer, <u> Barbara Stacherl</u>, Jakob Erhard, Anne Reitz
 
 
